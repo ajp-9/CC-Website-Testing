@@ -12,4 +12,4 @@ Todo:
     - What we've done in the past.
 
   - How we can help
-    - tech support section.
+    - tech support section
