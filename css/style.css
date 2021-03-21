@@ -2,7 +2,6 @@
 .inline { display: inline; }
 .jumbotron { text-align: center; }
 
-
 @media only screen and (min-width: 992px) {
   .footer-fix {
     position: absolute;
