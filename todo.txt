@@ -1,0 +1,15 @@
+X: already done
+-: needs to be done
+
+Todo:
+  - Make an about section
+    X Google classroom link
+    X What the club is about.
+    - Future plans
+    X Schedule of the club & the room
+    X What we're doing (currently)
+  - Previous work
+    - What we've done in the past.
+
+  - How we can help
+    - tech support section
